@@ -3,7 +3,7 @@
 
 Pantallazo del cubo renderizado:
 
-![img](./img/A.PNG)
+![img](./img/WebGLCube.PNG)
 
 
 GIF del cubo renderizado:
