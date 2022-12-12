@@ -68,36 +68,36 @@ And for the colors I have defined a different color for each of the vertices of 
 
 ```
 private float[] cubeColors= new [] {
-    // TOP (Yellow)
-    1f, 1f, 0f, 0.8f,
-    1f, 1f, 0f, 0.8f,
-    1f, 1f, 0f, 0.8f,
-    1f, 1f, 0f, 0.8f,
-    // LEFT (Orange)
-    1f, 0.6f, 0f, 0.9f,
-    1f, 0.6f, 0f, 0.9f,
-    1f, 0.6f, 0f, 0.9f,
-    1f, 0.6f, 0f, 0.9f,
-    // RIGHT (Blue)
-    0f, 0f, 0.75f, 1f,
-		0f, 0f, 0.75f, 1f,
-		0f, 0f, 0.75f, 1f,
-		0f, 0f, 0.75f, 1f,
-    // FRONT (Pink)
-    1.0f, 0.0f, 0.5f, 1f,
-		1.0f, 0.0f, 0.5f, 1f,
-		1.0f, 0.0f, 0.5f, 1f,
-		1.0f, 0.0f, 0.5f, 1f,
-    // BACK (Green)
-    0.0f, 1.0f, 0.5f, 1f,
-		0.0f, 1.0f, 0.5f, 1f,
-		0.0f, 1.0f, 0.5f, 1f,
-		0.0f, 1.0f, 0.5f, 1f,
-    // BOTTOM (Light Blue)
-    0f, 0.5f, 1f, 0.6f,
-		0f, 0.5f, 1f, 0.6f,
-		0f, 0.5f, 1f, 0.6f,
-		0f, 0.5f, 1f, 0.6f
+    	// TOP (Yellow)
+    	1f, 1f, 0f, 0.8f,
+    	1f, 1f, 0f, 0.8f,
+    	1f, 1f, 0f, 0.8f,
+    	1f, 1f, 0f, 0.8f,
+    	// LEFT (Orange)
+    	1f, 0.6f, 0f, 0.9f,
+    	1f, 0.6f, 0f, 0.9f,
+    	1f, 0.6f, 0f, 0.9f,
+    	1f, 0.6f, 0f, 0.9f,
+    	// RIGHT (Blue)
+    	0f, 0f, 0.75f, 1f,
+	0f, 0f, 0.75f, 1f,
+	0f, 0f, 0.75f, 1f,
+	0f, 0f, 0.75f, 1f,
+    	// FRONT (Pink)
+    	1.0f, 0.0f, 0.5f, 1f,
+	1.0f, 0.0f, 0.5f, 1f,
+	1.0f, 0.0f, 0.5f, 1f,
+	1.0f, 0.0f, 0.5f, 1f,
+    	// BACK (Green)
+    	0.0f, 1.0f, 0.5f, 1f,
+	0.0f, 1.0f, 0.5f, 1f,
+	0.0f, 1.0f, 0.5f, 1f,
+	0.0f, 1.0f, 0.5f, 1f,
+    	// BOTTOM (Light Blue)
+    	0f, 0.5f, 1f, 0.6f,
+	0f, 0.5f, 1f, 0.6f,
+	0f, 0.5f, 1f, 0.6f,
+	0f, 0.5f, 1f, 0.6f
 };
 ```
 
